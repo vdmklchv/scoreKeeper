@@ -1,0 +1,17 @@
+body {
+    font-family: Raleway, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.score {
+    font-size: 4rem;
+}
+
+.btn    {
+    border-radius: 0;
+}
+
